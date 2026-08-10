@@ -1,6 +1,6 @@
 ---
 title: Reference：能力速查
-order: 10
+order: 11
 ---
 # Reference：能力速查
 
@@ -29,3 +29,6 @@ order: 10
 - 需要网页登录、账号或私有服务时，优先设计 Secret、设备、browser_use 和内网服务的组合。
 - 高频网页流程优先沉淀为 WebSkill。
 - 结构化业务操作优先使用数据表或 Workbench 应用承接。
+
+## 目录
+

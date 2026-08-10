@@ -1,6 +1,6 @@
 ---
 title: Reference：能力速查
-order: 10
+order: 11
 ---
 # Reference：能力速查
 
